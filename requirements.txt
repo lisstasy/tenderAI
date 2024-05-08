@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain_openai
+chromadb
+openai
+unstructured
+openpyxl
